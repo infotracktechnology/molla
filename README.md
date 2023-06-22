@@ -1,12 +1,12 @@
 # molla
 
-Template  = "molla"
+# Home
+<h4> Home </h4>
 
-Alias     = "molla"
+# About
+<h4> About </h4>
 
-Author    = "molla"
 
-Version   = "1.0"
 
 # Theme
 <h4> Theme </h4>
